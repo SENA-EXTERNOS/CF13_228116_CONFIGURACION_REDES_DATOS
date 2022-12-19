@@ -1,19 +1,197 @@
 .banner-principal-decorativo
   &-1
-    animation: float1 3.5s ease-in-out infinite alternate
+    animation: vanish 4s ease-in-out infinite alternate
     position: absolute
-    top: 40%
-    right: 50%
+    top: 8.8%
+    right: 36.5%
+    width: 14%
   &-2
-    animation: float1 2.8s ease-in-out infinite alternate
+    animation: float1 4s ease-in-out infinite alternate
     position: absolute
-    top: 51%
-    right: 30%
-
+    top: 25%
+    left: 32.8%
+    width: 8%
+  &-3
+    animation: float1 5s ease-in-out infinite alternate
+    position: absolute
+    top: 18%
+    right: 40%
+  &-4
+    animation: vanish 6s ease-in-out infinite alternate
+    position: absolute
+    top: 19.5%
+    right: 17%
+    width: 78%
+    z-index: 2
+  &-5
+    position: absolute
+    top: 19.5%
+    right: 17%
+    width: 78%
+    z-index: 1
+  &-6
+    position: absolute
+    top: 54.8%
+    right: 54%
+    width: 8%
+    z-index: 3
+  &-7
+    animation: vanish 6s ease-in-out infinite alternate
+    position: absolute
+    top: 54.8%
+    right: 54%
+    width: 8%
+    z-index: 4
+  &-8
+    animation: vanish 5s ease-in-out infinite alternate
+    position: absolute
+    top: 19.5%
+    left: 31%
+    width: 11%
 
 @keyframes float1
   0%
-    transform: translateY(20px)
-
-  100%
     transform: translateY(0px)
+  100%
+    transform: translateY(30px)
+
+@keyframes vanish
+  0%
+    opacity: 0
+  100%
+    opacity: 1
+
+.cajon.color-acento-contenido
+  background-color: #FFF7DD
+
+.cajon.color-secundario
+  background-color: #C1E6EE
+
+.BGR01
+  background: linear-gradient(to right, #D0E1F0,#D1E1EF, #D0E1F0)
+
+.BG02
+  background-color: #CDEBEF
+
+.BG03, .BGR03A
+  background-color: #C1EFF5
+
+.BG04, .BGR04A
+  background-color: #C8DAE8
+
+.BGR05
+  background-color: #C1D5E5
+
+.BGR06
+  background-color:#DBEEF1
+  
+.BG07
+  background-color: #F5E5B8
+
+.BG08
+  background-color: #D5E5E8
+
+.BGR09
+  background-color: #F5F5F5
+
+.BGR09.acordion__activo
+  background-color: #EEEEEE
+
+.BGR10 
+  background-color: #F5EED6
+
+.BGR05,.BGIMG01, .BGR09,.BGR10
+  border-radius: 10px
+
+.BGR03A
+  border-radius: 10px 10px 0 0
+
+.BGR04A
+  border-radius: 0 0 10px 10px
+
+.BGIMG01
+  background-image: url("../assets/curso/fondos/img01.png")
+
+.BGIMG01
+  background-size: cover
+  background-repeat: no-repeat
+  background-position: center
+
+.img-01
+  position: absolute
+  left: 5%
+  z-index: 1
+
+.img-02
+  position: absolute
+  width: 200px
+  left: -5%
+  top: -22%
+  @media (max-width: $bp-max-xl)
+    left: -7%
+    top: -21%
+  @media (max-width: $bp-max-lg)
+    left: -8%
+    top: -19%
+  @media (max-width: $bp-max-md)
+    position: relative
+  
+.img-03
+  position: absolute
+  right: 5%
+
+.hg-1
+  height: 240px
+  @media (max-width: $bp-max-xl)
+    height: 264px
+  @media (max-width: $bp-max-lg)
+    height: 216px
+  @media (max-width: $bp-max-md)
+    height: initial
+  
+.slyder-a__bullets__item--active
+  background-color: #1B3F5E !important
+
+.slyder-a__bullets__item
+  background-color:#8EA6B9
+
+.slyder-a__btn--sigt, .slyder-a__btn--atrs
+  background-color: #F4F4F5
+
+.slyder01 .slyder-a__bullets__item--active
+  background-color: #4A657C !important
+
+.slyder01 .slyder-a__bullets__item
+  background-color:#B9BEB6
+
+.slyder01 .slyder-a__btn--sigt, .slyder-a__btn--atrs
+  background-color: #F0F0EF
+
+.slyder-a__btn--sigt, .slyder-a__btn--atrs
+  @media (max-width: $bp-max-xs)
+    width: 25px
+    height: 25px
+  
+.slyder-a__bullets__item
+  @media (max-width: $bp-max-xs)
+    width: 7px
+    height: 7px
+    margin: 0 5px
+  
+.slyder01 .slyder-a__btn--sigt, .slyder01 .slyder-a__btn--atrs
+  background-image: url("../assets/componentes/yellow-arrow.svg")
+
+.slyder01 .slyder-a__btn--sigt
+  transform: rotate(0deg) !important
+
+.slyder01 .slyder-a__btn--atrs
+  transform: rotate(180deg) !important
+
+.tabs-c__header
+  margin-bottom: 0
+
+.tabs-c.color-acento-botones .tabs-c__tab--active
+  font-weight: 900
+
+.acordion__accion__btn--b
+  border: 1px solid #FD9927
