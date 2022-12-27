@@ -7,7 +7,7 @@
         span 2
       h1 Métodos de instalación de redes
     
-    p En los procesos de instalación de redes de computadores uno de los aspectos principales <span style="color: #FD9927"> #[b quizá el más importante de todos]</span> es la planificación del cableado que se va a utilizar teniendo en cuenta que siempre cumpla con los requerimientos establecidos durante la planeación y ejecución del proyecto. Siendo así, los cables se dividen en las siguientes categorías:
+    p En los procesos de instalación de redes de computadores uno de los aspectos principales #[b quizá el más importante de todos] es la planificación del cableado que se va a utilizar teniendo en cuenta que siempre cumpla con los requerimientos establecidos durante la planeación y ejecución del proyecto. Siendo así, los cables se dividen en las siguientes categorías:
 
     .row.justify-content-center.mb-4(data-aos="zoom-in")
       TabsC.color-acento-botones
@@ -36,7 +36,7 @@
             .col-lg-5.col-10.mb-lg-0.mb-4
               img(src='@/assets/curso/tema2/img04.jpg')
             .col-lg-6
-              p Está formado por un hilo conductor central <span style="color: #FD9927">a través del cual se envían datos</span> y por la malla o conductor exterior, que realiza el retorno de la corriente. En medio de ambos elementos se encuentra una capa aislante de metal conocida con el nombre de dieléctrico.
+              p Está formado por un hilo conductor central #[b a través del cual se envían datos] y por la malla o conductor exterior, que realiza el retorno de la corriente. En medio de ambos elementos se encuentra una capa aislante de metal conocida con el nombre de dieléctrico.
         .BGR06.py-md-5.py-4(titulo="Multipar telefónico")
           .row.justify-content-center.align-items-center
             .col-lg-5.col-10.mb-lg-0.mb-4
@@ -61,7 +61,7 @@
             | Cuarto de telecomunicaciones, también denominado servicio de distribución.
           li
             i.fas.fa-share-alt(style="color:#FD9927")
-            | Cableado backbone, también denominado cableado vertical.
+            p.mb-0 Cableado #[em backbone], también denominado cableado vertical.
           li
             i.fas.fa-share-alt(style="color:#FD9927")
             | Cableado de distribución, también denominado cableado horizontal.

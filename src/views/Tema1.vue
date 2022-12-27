@@ -38,7 +38,7 @@
         img(src="@/assets/curso/tema1/img02.png")
 
     p Después de tener clara la normativa y reglamentación necesarias para la instalación de redes, y partiendo de una verificación detallada de cada proceso, es de suma importancia verificar que el montaje quedó correctamente realizado.
-    p.mb-5 Introducción aspectos a revisar antes y durante la instalación de una red: 
+    p.mb-5 Aspectos a revisar antes y durante la instalación de una red: 
 
     .row.justify-content-start.align-items-center.mb-4(data-aos="zoom-in")
       SlyderF(columnas="col-lg-6 col-xl-4")
