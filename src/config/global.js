@@ -82,13 +82,6 @@ export default {
         titulo: 'Herramientas para instalar redes',
         desarrolloContenidos: true,
       },
-      {
-        nombreRuta: 'tema5',
-        icono: 'far fa-file-alt',
-        numero: '5',
-        titulo: 'Dibujo técnico',
-        desarrolloContenidos: true,
-      },
     ],
     subMenu: [
       {
