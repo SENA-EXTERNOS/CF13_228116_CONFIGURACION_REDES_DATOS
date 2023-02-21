@@ -7,11 +7,11 @@
       .col-6.col-md-4.col-lg-3.mb-4.mb-md-0
         .tarjeta.h-100.d-flex.align-items-center.p-4
           figure
-            img(src="@/assets/template/seleccion-multiple.svg")
+            img(src="@/assets/template/ad.svg")
       .col-12.col-md-8.col-lg-9
         .titulo-segundo
           h2 Configuración redes de datos
-        p.mb-4 Elegir la respuesta correcta de acuerdo al enunciado:
+        p.mb-4 Esta actividad le permitirá determinar el grado de apropiación de los contenidos del componente formativo.
         .tarjeta.actividad.p-3
           .row.justify-content-around.align-items-center            
             .col-sm.mb-3.mb-sm-0

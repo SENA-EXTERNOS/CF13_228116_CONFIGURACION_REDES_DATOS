@@ -3,7 +3,7 @@
   BannerInterno(icono="fas fa-sitemap" titulo="Síntesis")
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5
     
-    p.mb-5 A través de este componente formativo se adquieren conceptos teóricos con el objetivo de conocer las actividades que hacen parte del proceso de instalación de redes, de tal manera que cuando el   aprendiz participe en esta actividad lo haga de manera exitosa. Se aborda lo general y específico que envuelven los conceptos de instalación de redes, métodos de instalación, instalación de redes de fibra óptica, herramientas para instalar redes y el dibujo técnico.
+    p.mb-5 El siguiente mapa integra los conceptos más relevantes de la información expresada en el presente componente formativo.
 
     .row.justify-content-center
       .col-lg-10.mb-5

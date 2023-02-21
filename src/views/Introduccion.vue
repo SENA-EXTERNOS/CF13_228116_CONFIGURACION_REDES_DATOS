@@ -15,8 +15,10 @@
           .col-11
             img(src="@/assets/curso/intro/img01.png")
       .col-lg-8.BGR01.p-4(style="z-index: 2" data-aos="fade-left")
-        p Estimado aprendiz: en este componente formativo se desarrollarán las competencias necesarias para que sea un actor principal en el proceso de montaje de una red de datos, incluidas las eléctricas, como parte de la implementación de una plataforma de tecnologías de información. 
-        p.mb-0 Se estudiarán también las generalidades de la instalación de redes de datos, sus métodos de desarrollo, el proceso de montaje de la fibra óptica y las herramientas para el establecimiento de las redes de manera correcta y efectiva; temas de gran importancia ya que la persona encargada del montaje de redes se convierte en uno de los pilares en los proyectos de actualización tecnológica en las empresas.
+        p Estimado aprendiz, en este componente formativo usted desarrollará las competencias necesarias para el montaje de una red de datos, incluidas las eléctricas, como parte de la implementación de una plataforma de tecnologías de información.
+          br
+          br
+          |Se estudiarán también las generalidades relacionadas con la instalación de redes de datos, los métodos existentes, el proceso de montaje de redes de fibra óptica y las herramientas disponibles para la configuración de redes de manera correcta y efectiva; temas de gran importancia ya que la persona encargada del montaje de redes se convierte en uno de los pilares en los proyectos de actualización tecnológica en las empresas.
 
     p A continuación lo invitamos a ver un video que le ilustrará sobre los puntos a tratar.
 

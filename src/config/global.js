@@ -2,7 +2,7 @@ export default {
   global: {
     componenteFormativo: 'Configuración redes de datos',
     descripcionCurso:
-      'En este elemento educativo se conocerán conceptos generales de métodos de instalación de redes, temas, diferentes formas de instalar redes de fibra óptica, diferentes herramientas disponibles para instalarlas. Además, el conocimiento requerido para implementar con éxito redes, todo como parte de una transición o modernización de una plataforma de tecnologías de información y comunicaciones.',
+      'En este componente formativo se tratarán conceptos generales sobre métodos de instalación de redes, en especial redes de fibra óptica y las diferentes herramientas disponibles para realizarlo. Además, se encuentran las bases necesarias para implementar con éxito redes de datos, todo como parte de una transición o modernización de una plataforma de tecnologías de información y comunicaciones.',
     imagenBannerPrincipal: require('@/assets/curso/portada/banner-princiapal.svg'),
     fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.png'),
     imagenesDecorativasBanner: [
