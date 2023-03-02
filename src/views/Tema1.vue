@@ -108,7 +108,7 @@
         .row.justify-content-center
           .col-lg-5.order-lg-1.order-2
             .h4 DVR
-            p Los sistemas de administración de señales de video y grabación comúnmente se conocen como #[b DVR] (#[em digital video recorder]), y su función principal consiste en grabar y almacenar las señales de videos de las cámaras que están conectadas a sus entradas. Estos equipos vienen provistos y programados a partir de un software especializado para realizar la gestión de dichas señales.
+            p Los sistemas de administración de señales de video y grabación comúnmente se conocen como #[b DVR] (#[em digital video recorder]), y su función principal consiste en grabar y almacenar las señales de videos de las cámaras que están conectadas a sus entradas. Estos equipos vienen provistos y programados a partir de un #[em software] especializado para realizar la gestión de dichas señales.
             p.mb-0 El cable coaxial es uno de los medios de transmisión físicos más usados y eficaces para llevar la señal de video análoga entre la cámara y el DVR. Sin embargo, el uso del cable par trenzado (UTP), más la implementación del #[em video-balun] es cada vez más común por el menor costo frente al coaxial.
           .col-lg-6.col-10.order-lg-2.order-1.mb-lg-0.mb-4
             img(src="@/assets/curso/tema1/c4.png")

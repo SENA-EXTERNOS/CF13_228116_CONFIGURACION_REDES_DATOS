@@ -104,7 +104,7 @@
       SlyderA.slyder01(tipo="b")
         .row.justify-content-center
           .col-lg-5.order-lg-1.order-2
-            p A nivel de software se consideran como un conglomerado de programas que realizan una función determinada dentro de un campo de acción específico. Un ejemplo claro es el correo electrónico, ya que es un conjunto de programas cuya función es lograr que las personas envíen y reciban mensajes mediante una plataforma de comandos establecida. 
+            p A nivel de #[em software] se consideran como un conglomerado de programas que realizan una función determinada dentro de un campo de acción específico. Un ejemplo claro es el correo electrónico, ya que es un conjunto de programas cuya función es lograr que las personas envíen y reciban mensajes mediante una plataforma de comandos establecida. 
               br
               br
               |En sus inicios solo permitía enviar y recibir mensajes de texto plano, después se fueron agregando más funcionalidades, al punto de que hoy en día es uno de los componentes claves de las herramientas colaborativas.
