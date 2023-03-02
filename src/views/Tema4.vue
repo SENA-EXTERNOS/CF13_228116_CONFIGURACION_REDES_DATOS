@@ -57,7 +57,7 @@
             .col-lg-5.col-10.mb-lg-0.mb-4
               img(src='@/assets/curso/tema4/img07.jpg')
             .col-lg-6
-              p Conjunto de pruebas de pérdida óptica (Optical Loss Test Set), es un dispositivo de alta precisión que mide las pérdidas totales de atenuación en un tramo de fibra óptica. La fuente de luz se sitúa en uno de los extremos de la fibra de tal forma que se emite una señal continua en una longitud de onda determinada. En el otro extremo un medidor detecta dicha señal y mide su nivel de potencia óptica. Es necesario calibrar el medidor para obtener resultados precisos.
+              p Conjunto de pruebas de pérdida óptica (#[I Optical Loss Test Set]), es un dispositivo de alta precisión que mide las pérdidas totales de atenuación en un tramo de fibra óptica. La fuente de luz se sitúa en uno de los extremos de la fibra de tal forma que se emite una señal continua en una longitud de onda determinada. En el otro extremo un medidor detecta dicha señal y mide su nivel de potencia óptica. Es necesario calibrar el medidor para obtener resultados precisos.
                 br
                 br
                 |La atenuación de la fibra es la diferencia entre la señal emitida y la recibida. Para obtener provecho de la utilización de los OLTS se deben obtener resultados bidireccionales, es decir, hacer las mediciones en ambas direcciones, no obstante, para esto debe haber un técnico en cada extremo del cable.
