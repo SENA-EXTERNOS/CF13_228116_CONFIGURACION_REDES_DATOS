@@ -69,11 +69,11 @@
           .BGR05.hg-1.p-4
             p.text-center.mt-5.mb-0 Confirmar si en la red hay servicios o protocolos innecesarios que puedan estar generando tráfico y, por lo tanto, colapsando las comunicaciones.
 
-    p.mb-5 Como parte de esta construcción, se deben contemplar de una manera complementaria las particularidades de cada uno de los componentes, de tal forma que cumplan con las necesidades de diseño que se han solicitado.
+    p.mb-5 Como parte de la construcción de una red, se deben contemplar, de manera complementaria, las particularidades de cada uno de los componentes, de tal forma que cumplan con las necesidades de diseño que se han solicitado. La forma correcta de establecer la infraestructura de soporte de la red es tan importante como la calidad del equipo que se utilice.
 
     .row.justify-content-center.mb-4(data-aos="flip-up")
       .col-lg-10.cajon.color-acento-contenido.p-4
-        p.mb-0 La forma de establecer la infraestructura de soporte de la red correcta es tan importante como el patrón del equipo que se utilice. A menudo, la desemejanza de las redes de cables con las redes inalámbricas es que requieren mayor habilidad y tiempo para diagnosticar los problemas y dar la solución de estos. Por ejemplo, el viento, elementos físicos e interferencias pueden causar fallas en una red que ha funcionado de forma correcta por un largo tiempo.
+        p.mb-0 Un ejemplo de esto, es que diagnosticar problemas y solucionarlos en una red inalámbrica puede requerir de más habilidad y tiempo que en una cableada, ya que factores como el viento, elementos físicos e interferencias pueden causar fallas en una red que antes había funcionado de forma correcta por largo tiempo.
     h3 Terminales de servicio
 
     p.mb-5 En todas las redes que se instalan, independiente del objetivo que se establezca en el proyecto o qué función nos lleva a realizar varios tipos de servicios de la red, podemos encontrar las siguientes terminales de servicio:

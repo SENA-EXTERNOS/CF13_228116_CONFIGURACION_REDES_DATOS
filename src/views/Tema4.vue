@@ -66,7 +66,7 @@
             .col-lg-5.col-10.mb-lg-0.mb-4
               img(src='@/assets/curso/tema4/img08.jpg')
             .col-lg-6
-              p Optical Time Domain Reflectometer, por sus siglas en inglés, es otro de los elementos que sirve para identificar y localizar con precisión eventos individualizados en un enlace óptico. Es decir, si hay un problema o una sección defectuosa él detecta e informa el sitio exacto donde se encuentra.
+              p #[i Optical Time Domain Reflectometer], por sus siglas en inglés, es otro de los elementos que sirve para identificar y localizar con precisión eventos individualizados en un enlace óptico. Es decir, si hay un problema o una sección defectuosa él detecta e informa el sitio exacto donde se encuentra.
                 br
                 br
                 |El OTDR emite una medida reflectométrica, la cual se da en una prueba realizada desde un extremo para validar la calidad del cable de fibra. Este componente emite varias señales en la fibra en cuyo interior tiene lugar una serie de incidencias debidas a conectores, empalmes, irregularidades, curvaturas y defectos. Según lo anterior, se encarga de analizar el retorno de la señal generada por las reflexiones que causan el efecto Fresnel o Rayleigh.
@@ -76,7 +76,7 @@
             .col-lg-5.col-10.mb-lg-0.mb-4
               img(src='@/assets/curso/tema4/img09.jpg')
             .col-lg-6
-              p.mb-0 Por su sigla en inglés significa visual fault locator. Es decir, un localizador visual de fallos. Se utiliza para probar la continuidad del cable de fibra óptica: se coloca en un extremo y se observa con precaución la luz del mismo por el otro extremo.
+              p.mb-0 Por su sigla en inglés significa #[i visual fault locator]. Es decir, un localizador visual de fallos. Se utiliza para probar la continuidad del cable de fibra óptica: se coloca en un extremo y se observa con precaución la luz del mismo por el otro extremo.
         .BGR06.py-md-5.py-4(titulo="Microscopio para fibra óptica")
           .row.justify-content-center.align-items-center
             .col-lg-5.col-10.mb-lg-0.mb-4

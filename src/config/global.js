@@ -176,7 +176,7 @@ export default {
     {
       termino: 'Dirección IP',
       significado:
-        '(en inglés IP address), es la representación numérica de la localización de un ordenador dentro de una red. Consiste en cuatro números de hasta cuatro cifras separadas por puntos. La dirección del protocolo de un equipo conectado a internet que se suele representar en una notación con puntos o decimal, como en 128.121.4.5',
+        '(en inglés <i>IP address</i>), es la representación numérica de la localización de un ordenador dentro de una red. Consiste en cuatro números de hasta cuatro cifras separadas por puntos. La dirección del protocolo de un equipo conectado a internet que se suele representar en una notación con puntos o decimal, como en 128.121.4.5',
     },
     {
       termino: 'Inalámbrico',

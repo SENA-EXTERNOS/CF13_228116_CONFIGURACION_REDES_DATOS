@@ -20,7 +20,8 @@
           br
           |Se estudiarán también las generalidades relacionadas con la instalación de redes de datos, los métodos existentes, el proceso de montaje de redes de fibra óptica y las herramientas disponibles para la configuración de redes de manera correcta y efectiva; temas de gran importancia ya que la persona encargada del montaje de redes se convierte en uno de los pilares en los proyectos de actualización tecnológica en las empresas.
 
-    p A continuación lo invitamos a ver un video que le ilustrará sobre los puntos a tratar.
+    p En el siguiente video conocerá, de forma general, la temática que se estudiará a lo largo del componente formativo:
+
 
     figure.mb-4(data-aos="zoom-in")
       .video

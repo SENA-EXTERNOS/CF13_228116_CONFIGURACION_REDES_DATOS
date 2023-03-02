@@ -55,7 +55,7 @@
         img(src="@/assets/curso/tema2/img06.png")
       .col-lg-7
         .BG07.p-4.mb-4(data-aos="flip-up")
-          p.mb-0 Al organizar la planificación del montaje de una red LAN se deben tener en cuenta las siguientes áreas físicas: 
+          p.mb-0 Al organizar la planificación de la instalación de una red LAN se deben tener en cuenta las siguientes áreas físicas: 
         ul.lista-ul--color.ms-3
           li
             i.fas.fa-check(style="color:#FD9927")
@@ -72,8 +72,13 @@
           li
             i.fas.fa-check(style="color:#FD9927")
             | Áreas físicas de instalación de redes.
-    
-    h4 Planificación de la instalación de una red LAN
+
+    .row.justify-content-center.align-items-center.mb-5           
+      .col-lg-10          
+        .cajon.color-primario.p-4.mb-4(data-aos="flip-down")
+          p(data-aos="fade-down").mb-0 La facilidad en el proceso de instalación de una red está determinada por aspectos como los tipos de cables, la estructura del acceso al piso y a sus espacios, las propiedades y el tamaño físico del cable. Estos cables generalmente se instalan en canales para conductores eléctricos, que son como recintos en los que están protegidos.  
+
+    h4 Componentes adicionales en la instalación de redes
     p.mb-5(data-aos='fade-right') Se deben realizar las instalaciones y configuraciones complementarias para poner en funcionamiento la red, haciendo uso de los siguientes componentes, los cuales se deben situar y dejar listos durante esta parte del proceso:
     .row.justify-content-center.mb-5
       .col-lg-7
