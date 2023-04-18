@@ -16,7 +16,7 @@
         p El proceso de instalación de redes para una plataforma de infraestructura tecnológica se estructura en dos pilares fundamentales: la instalación de componentes eléctricos, inicialmente, y el montaje de los componentes que conforman el cableado estructurado.
           br
           br
-          |#[b En la instalación eléctrica se desarrollan los pasos correspondientes a la implementación de las piezas eléctricas, como son las tomas, los cables eléctricos, las acometidas, las canaletas y las señales reguladas, cuya función principal es suministrar la corriente y el voltaje necesarios para su correcto funcionamiento.]
+          | En la instalación eléctrica se desarrollan los pasos correspondientes a la implementación de las piezas eléctricas, como son las tomas, los cables eléctricos, las acometidas, las canaletas y las señales reguladas, cuya función principal es suministrar la corriente y el voltaje necesarios para su correcto funcionamiento.
 
     .BG02.p-4.mb-4(data-aos="flip-up")
       p.mb-0 Por otro lado, se encuentra el sistema de cableado estructurado, el cual está formado por los puntos de red, el cableado UTP, la fibra óptica o inalámbrica, los #[em switches] o interruptores, los conectores, los enrutadores, entre otros.
