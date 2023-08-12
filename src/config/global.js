@@ -124,14 +124,14 @@ export default {
     ],
   },
   complementario: [
-    {
-      tema: 'Instalación de redes',
-      referencia:
-        'Ramos, E. A. (s/f). <em>INSTALACIÓN Y MANTENIMIENTO DE REDES INFORMÁTICAS “ASPECTOS FUNDAMENTALES SOBRE REDES”</em>.',
-      tipo: 'Artículo',
-      link:
-        'https://www.trabajosocial.unlp.edu.ar/uploads/docs/instalacion_y_mantenimiento_de_redes_informaticas__aspectos_fundamentales_sobre_redes_.pdf',
-    },
+    // {
+    //   tema: 'Instalación de redes',
+    //   referencia:
+    //     'Ramos, E. A. (s/f). <em>INSTALACIÓN Y MANTENIMIENTO DE REDES INFORMÁTICAS “ASPECTOS FUNDAMENTALES SOBRE REDES”</em>.',
+    //   tipo: 'Artículo',
+    //   link:
+    //     'https://www.trabajosocial.unlp.edu.ar/uploads/docs/instalacion_y_mantenimiento_de_redes_informaticas__aspectos_fundamentales_sobre_redes_.pdf',
+    // },
     {
       tema: 'Métodos de instalación de redes',
       referencia: '<em>Unidad 2. Instalación física de una red</em>. (s/f).',

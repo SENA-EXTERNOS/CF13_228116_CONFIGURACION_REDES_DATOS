@@ -92,38 +92,38 @@
             p También denominado #[b CCTV] (#[em Closed Circuit Television]). Es una tecnología de videovigilancia diseñada para inspeccionar diferentes ambientes y los eventos que se presentan en su interior. Se le denomina circuito cerrado debido a que los datos de las imágenes que se generan por cada uno de los componentes son almacenados de forma centralizada en un dispositivo para luego ser consultados y, en caso de requerirse, utilizados.
             p.mb-0 El circuito puede estar compuesto por una o más cámaras de vigilancia conectadas a uno o más monitores de video o televisores que reproducen las imágenes capturadas. Para lograr que el sistema sea más eficiente, actualmente se conectan directamente o se enlazan por red otros componentes como computadores.
           .col-lg-6.col-10.order-lg-2.order-1.mb-lg-0.mb-4
-            img(src="@/assets/curso/tema1/c1.png")
+            img(src="@/assets/curso/tema1/c2.png")
         .row.justify-content-center
           .col-lg-5.order-lg-1.order-2
             .h4 Servidores
             p.mb-0 Este dispositivo es el cerebro de la trasmisión de la información en una red de datos o computadores debido a que se encarga de gestionar el envío, la recepción y la manipulación de los datos que se generan continuamente en su alcance de validación.
           .col-lg-6.col-10.order-lg-2.order-1.mb-lg-0.mb-4
-            img(src="@/assets/curso/tema1/c2.png")
+            img(src="@/assets/curso/tema1/c3.png")
         .row.justify-content-center
           .col-lg-5.order-lg-1.order-2
             .h4.fst-italic Access point
             p.mb-0 Son definidos inicialmente como #[b AP] o #[b WAP] (#[em access point o wireless access point]), pero también se les conoce como #[b puntos de acceso]. Son dispositivos electrónicos cuya finalidad principal es establecer una conexión inalámbrica entre equipos, sean estos computadores, impresoras o celulares, formando de esta manera una red inalámbrica externa (local o internet) con la que se podría interconectar cualquier tipo de equipo que tenga esta tecnología.
           .col-lg-6.col-10.order-lg-2.order-1.mb-lg-0.mb-4
-            img(src="@/assets/curso/tema1/c3.png")
+            img(src="@/assets/curso/tema1/c4.png")
         .row.justify-content-center
           .col-lg-5.order-lg-1.order-2
             .h4 DVR
             p Los sistemas de administración de señales de video y grabación comúnmente se conocen como #[b DVR] (#[em digital video recorder]), y su función principal consiste en grabar y almacenar las señales de videos de las cámaras que están conectadas a sus entradas. Estos equipos vienen provistos y programados a partir de un #[em software] especializado para realizar la gestión de dichas señales.
             p.mb-0 El cable coaxial es uno de los medios de transmisión físicos más usados y eficaces para llevar la señal de video análoga entre la cámara y el DVR. Sin embargo, el uso del cable par trenzado (UTP), más la implementación del #[em video-balun] es cada vez más común por el menor costo frente al coaxial.
           .col-lg-6.col-10.order-lg-2.order-1.mb-lg-0.mb-4
-            img(src="@/assets/curso/tema1/c4.png")
+            img(src="@/assets/curso/tema1/c5.png")
         .row.justify-content-center
           .col-lg-5.order-lg-1.order-2
             .h4 NVR (#[em networking video recorder])
             p.mb-0 Traducido al español como grabador de video de red, es un dispositivo inteligente y físico que contiene unos programas que permiten operar diferentes cámaras IP o inalámbricas configuradas en un conjunto de elementos de red. Su objetivo es almacenar datos de manera digital gracias a un disco duro que hace posible guardar imágenes de baja y alta resolución.
           .col-lg-6.col-10.order-lg-2.order-1.mb-lg-0.mb-4
-            img(src="@/assets/curso/tema1/c5.png")
+            img(src="@/assets/curso/tema1/c6.png")
         .row.justify-content-center
           .col-lg-5.order-lg-1.order-2
             .h4 Telemandos
             p.mb-0 Dispositivos que se utilizan para accionar a distancia aparatos electrónicos. Son fundamentales para proteger y conservar elementos como el sistema de alumbrado o los electrodomésticos ante disparos intempestivos de tensión.
           .col-lg-6.col-10.order-lg-2.order-1.mb-lg-0.mb-4
-            img(src="@/assets/curso/tema1/c6.png")
+            img(src="@/assets/curso/tema1/c7.png")
 
 </template>
 

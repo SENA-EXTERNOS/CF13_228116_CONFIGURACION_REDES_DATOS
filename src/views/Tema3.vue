@@ -9,7 +9,7 @@
     p.mb-5(data-aos='fade-right') El siguiente video amplía información sobre la importancia de la correcta instalación de redes de fibra óptica y sus particularidades:
     figure.mb-5(data-aos="zoom-in")
       .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/gcDdQWMbdec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/RBa6CSZDwaQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
 
     .row.justify-content-center.mb-5(data-aos="flip-up")
       .col-lg-10.cajon.color-secundario.p-4
