@@ -63,7 +63,7 @@
         .tarjeta-avatar
           img(src='@/assets/curso/tema1/img07.svg' alt='AvatarTop')
           .BGR05.hg-1.p-4
-            p.text-center.mt-5.mb-0 Cerciorarse de que haya el menor número de colisiones posibles. El técnico podrá usar para ello herramientas como “Sniffer pro o Network inspector”.
+            p.text-center.mt-5.mb-0 Cerciorarse de que haya el menor número de colisiones posibles. El técnico podrá usar para ello herramientas como “#[em Sniffer pro] o #[em Network inspector]”.
         .tarjeta-avatar
           img(src='@/assets/curso/tema1/img08.svg' alt='AvatarTop')
           .BGR05.hg-1.p-4
@@ -83,7 +83,7 @@
         .row.justify-content-center
           .col-lg-5.order-lg-1.order-2
             .h4 Telefonía IP
-            p.mb-0 Es conocida como Protocolo de Telefonía por Internet, lo cual incluye las tecnologías que usan el protocolo IP para el intercambio de voz, tales como fueron el fax y otros modos de información que ahora funcionan utilizando la red de internet. Las señales de voz o audio viajan en forma de paquetes de datos a través de una red de área local (LAN) o internet (voz sobre IP).
+            p.mb-0 Es conocida como Protocolo de Telefonía por Internet, lo cual incluye las tecnologías que usan el protocolo IP para el intercambio de voz, tales como fueron el #[em fax] y otros modos de información que ahora funcionan utilizando la red de internet. Las señales de voz o audio viajan en forma de paquetes de datos a través de una red de área local (LAN) o internet (voz sobre IP).
           .col-lg-6.col-10.order-lg-2.order-1.mb-lg-0.mb-4
             img(src="@/assets/curso/tema1/c1.png")
         .row.justify-content-center

@@ -69,7 +69,7 @@
               p #[i Optical Time Domain Reflectometer], por sus siglas en inglés, es otro de los elementos que sirve para identificar y localizar con precisión eventos individualizados en un enlace óptico. Es decir, si hay un problema o una sección defectuosa él detecta e informa el sitio exacto donde se encuentra.
                 br
                 br
-                |El OTDR emite una medida reflectométrica, la cual se da en una prueba realizada desde un extremo para validar la calidad del cable de fibra. Este componente emite varias señales en la fibra en cuyo interior tiene lugar una serie de incidencias debidas a conectores, empalmes, irregularidades, curvaturas y defectos. Según lo anterior, se encarga de analizar el retorno de la señal generada por las reflexiones que causan el efecto Fresnel o Rayleigh.
+                |El OTDR emite una medida reflectométrica, la cual se da en una prueba realizada desde un extremo para validar la calidad del cable de fibra. Este componente emite varias señales en la fibra en cuyo interior tiene lugar una serie de incidencias debidas a conectores, empalmes, irregularidades, curvaturas y defectos. Según lo anterior, se encarga de analizar el retorno de la señal generada por las reflexiones que causan el efecto #[em Fresnel] o #[em Rayleigh].
 
         .BGR06.py-md-5.py-4(titulo="VFL")
           .row.justify-content-center.align-items-center

@@ -25,7 +25,7 @@
             .col-lg-5.col-10.mb-lg-0.mb-4
               img(src='@/assets/curso/tema2/img02.jpg')
             .col-lg-6
-              p Tiene la estructura de un cable de fibra óptica, pero se diferencia de este porque está específicamente diseñado para las instalaciones FTTH de plataformas de internet, video y datos sobre tecnología GPON, EPON y Metro Ethernet. Es usado en instalaciones interiores (#[em indoor]) como exteriores (#[em outdoor]).
+              p Tiene la estructura de un cable de fibra óptica, pero se diferencia de este porque está específicamente diseñado para las instalaciones FTTH de plataformas de internet, video y datos sobre tecnología GPON, EPON y Metro #[em Ethernet]. Es usado en instalaciones interiores (#[em indoor]) como exteriores (#[em outdoor]).
                 br
                 br
                 |Este tipo de cable permite la instalación del punto de conexión de la calle hacia al interior del recinto o casa y hace posibles curvas muy cerradas, con un diámetro de hasta 10 mm sin que el enlace óptico sufra grandes pérdidas.
