@@ -134,7 +134,8 @@ export default {
     // },
     {
       tema: 'Métodos de instalación de redes',
-      referencia: '<em>Unidad 2. Instalación física de una red</em>. (s/f).',
+      referencia:
+        '<em>Abad, A. (2015). Instalación física de una red.</em>. (s/f).',
       tipo: 'Artículo',
       link: 'https://www.mheducation.es/bcv/guide/capitulo/8448180828.pdf',
     },
